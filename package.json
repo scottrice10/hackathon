@@ -1,0 +1,15 @@
+{
+  "name": "d3Graphs",
+  "version": "0.0.1",
+  "author": "Hackathon, PranayIO",
+  "keywords": [
+    "Amazon API",
+    "d3",
+    "Graphs"
+  ],
+  "dependencies": {
+    "express": "^4.11.1"
+  },
+  "optionalDependencies": {},
+  "devDependencies": {}
+}
